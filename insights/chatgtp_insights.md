@@ -34,6 +34,6 @@
 | Shopee     | Japão       | 2024-10-09          | 294,83      |
 | Shopee     | Reino Unido | 2024-10-02          | 206,34      |
 
-3.- Resposta fornecida pelo script [graph3.py]()
+3.- Resposta fornecida pelo script [graph3.py](../scripts/graph3.py)
 
 ![figure](../data/graph3.png)
